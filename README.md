@@ -2,6 +2,8 @@
 
 Interactive 3D product viewer built with **React Three Fiber (Three.js)**, **drei** and **GSAP**.
 
+**Live demo:** https://3d-product-viewer-one.vercel.app
+
 ## Features
 - Loads a GLB/glTF model (`useGLTF`) with Suspense and a progress loader
 - Drag to rotate, scroll to zoom (OrbitControls, with limits), optional auto-rotate
